@@ -1,0 +1,4 @@
+name: Skillary
+version: '1.0-SNAPSHOT'
+main: dev.ofirtim.skillary.Skillary
+api-version: '1.20'

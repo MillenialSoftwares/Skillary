@@ -1,0 +1,4 @@
+name: Skillary
+version: '${version}'
+main: dev.ofirtim.skillary.Skillary
+api-version: '1.20'
